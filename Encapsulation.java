@@ -18,7 +18,7 @@ class Student{
 public class Encapsulation {
     public static void main(String[] args) {
         
-        Student s = new Student();
+        StudentMain s = new StudentMain();
         s.setName("Ravi sesham");
         s.setAge(21);
 
